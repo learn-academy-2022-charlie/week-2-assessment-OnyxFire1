@@ -15,6 +15,8 @@ var cohort = "Bravo 2022"
 // b) Verify and explain: I got this one correct because I had a similiar question on the last assessment and remembered that the space is a character.
 
 
+
+
 // --------------------2) What will this log?
 
 const greeter = (name) => {

@@ -119,6 +119,8 @@ const numbersArray2 = [24, 27, 30, 33, 36]
     
 // Second test passed
 
+
+
 // --------------------3) Create a function that takes in a string and logs the index of the first vowel.
 
 // a) Create a test with expect statements for each of the variables provided.
