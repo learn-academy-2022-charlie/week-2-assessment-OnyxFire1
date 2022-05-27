@@ -54,6 +54,8 @@ const randomNouns2 = ["temperature", "database", "chopsticks", "mango", "deducti
 
 
 
+
+
 // --------------------3) Create a function that takes in a string and logs the index of the first vowel.
 
 // a) Create a test with expect statements for each of the variables provided.

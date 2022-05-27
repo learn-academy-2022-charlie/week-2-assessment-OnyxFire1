@@ -14,6 +14,8 @@ var cohort = "Bravo 2022"
 // b) Verify and explain:
 
 
+
+
 // --------------------2) What will this log?
 
 const greeter = (name) => {
